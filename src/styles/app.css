@@ -1,0 +1,12 @@
+.main{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 90vh;
+  background: conic-gradient(
+    #999,
+    #ccc,
+    #eee,
+    #999   
+  );
+}

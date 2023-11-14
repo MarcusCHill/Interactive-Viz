@@ -1,0 +1,29 @@
+.graph-container{
+  position: relative;
+  width: 100%;
+  height: 90vh;
+  align-items: center;
+}
+
+.graph {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  transition: opacity 0.5s ease-in-out;
+  opacity: 0;
+}
+
+.graph.active {
+  opacity: 100;
+}
+
+.question-label{
+  color: white;
+}
+
+.overflow-visible {
+  overflow: visible;
+}

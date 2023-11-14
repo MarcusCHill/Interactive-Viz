@@ -1,70 +1,24 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Website Content
 
-## Available Scripts
+The website comprises a poem, "(Unnamed)" by Marcus Hill, alongside visualizations based on responses to four specific questions from the MADICS study. The questions and corresponding data include:
 
-In the project directory, you can run:
+1. "Do you feel that Black people are respected?"
+2. "Do you have a positive view on Blacks?"
+3. "If blacks don't do well, it's because they don't work hard."
+4. "Blacks have made valuable contributions to society."
 
-### `npm start`
+## Connection Between Poem and Graphs
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+The poem, "(Unnamed)," explores themes of identity, resilience, and societal standards within the context of being Black. It metaphorically reflects the challenges faced by the Black community, touching on issues such as respect, positive perception, hard work stereotypes, and contributions to society.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+The accompanying graphs visually represent survey responses related to these themes. By juxtaposing the poem with statistical insights, this project aims to provide a multidimensional exploration of the experiences and perceptions captured in the MADICS study.
 
-### `npm test`
+## Usage
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+To explore the poem and visualizations, simply navigate to the website and interact with the content.
 
-### `npm run build`
+## Credits
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This project is based on data from the MADICS Study, and the website is created and maintained by Marcus Hill.
+Eccles, Jacquelynne S., 1997, "MADICS Study of Adolescent Development in Multiple Contexts, 1991-2012", https://doi.org/10.7910/DVN/TVXUIN, Harvard Dataverse, V3, UNF:6:pkspWFvLMlGbx+ZhwvFfdw== [fileUNF]

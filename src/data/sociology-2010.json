@@ -1,0 +1,38 @@
+[
+  {
+    "Question": "Do you feel that Black people are respected?",
+    "Sample Size": 623,
+    "Strongly Disagree": 24,
+    "Slightly Disagree": 127,
+    "Neither Disagree or Agree": 235,
+    "Slightly Agree": 216,
+    "Strongly Agree": 21,
+  },
+  {
+    "Question": "Do you have a positive view on Blacks?",
+    "Sample Size": 623,
+    "Strongly Disagree": 29,
+    "Slightly Disagree": 191,
+    "Neither Disagree or Agree": 258,
+    "Slightly Agree": 134,
+    "Strongly Agree": 11,
+  },
+  {
+    "Question": "If blacks don't do well it's because they don't work hard.",
+    "Sample Size": 569,
+    "Strongly Disagree": 170,
+    "Slightly Disagree": 187,
+    "Neither Disagree or Agree": 156,
+    "Slightly Agree": 45,
+    "Strongly Agree": 11,
+  },
+  {
+    "Question": "Blacks have made valuable contributions to society.",
+    "Sample Size": 624,
+    "Strongly Disagree": 4,
+    "Slightly Disagree": 4,
+    "Neither Disagree or Agree": 60,
+    "Slightly Agree": 293,
+    "Strongly Agree": 263,
+  },
+]

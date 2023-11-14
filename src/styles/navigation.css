@@ -1,0 +1,13 @@
+.navigation-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 10vh;
+  background: rgba( 0, 0, 0, 0.6 );
+  backdrop-filter: blur(10px);
+  color: white;
+  text-align: center;
+}
+span{
+  padding: 0rem 2rem;
+}
