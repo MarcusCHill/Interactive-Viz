@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Interactive-Viz/static/css/main.1d3dd58f.css",
+    "main.js": "/Interactive-Viz/static/js/main.82a8052d.js",
+    "static/js/787.a3562a8a.chunk.js": "/Interactive-Viz/static/js/787.a3562a8a.chunk.js",
+    "static/media/blackrocks.jpeg": "/Interactive-Viz/static/media/blackrocks.6230676a7fc902cf9fd0.jpeg",
+    "index.html": "/Interactive-Viz/index.html",
+    "main.1d3dd58f.css.map": "/Interactive-Viz/static/css/main.1d3dd58f.css.map",
+    "main.82a8052d.js.map": "/Interactive-Viz/static/js/main.82a8052d.js.map",
+    "787.a3562a8a.chunk.js.map": "/Interactive-Viz/static/js/787.a3562a8a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d3dd58f.css",
+    "static/js/main.82a8052d.js"
+  ]
+}
